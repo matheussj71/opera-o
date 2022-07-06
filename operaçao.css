@@ -1,0 +1,18 @@
+*{
+	margin: 0;
+	padding: 0;
+	background-color: black;
+}
+.texto{
+	width: 70vw;
+	height: 10vh;
+	margin: auto;
+	background-color: red;
+	border: 5px solid white;
+	text-align: center;
+	margin-top: 150px;
+	font-zise:50px;
+	color: white;
+	text-shadow: 0 0 50px blue;
+	
+}
